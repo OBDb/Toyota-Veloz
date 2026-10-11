@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Avanza"
+
+generations:
+  - name: "First Generation (W100)"
+    start_year: 2021
+    end_year: null
+    description: "The upscale version of the third-generation Avanza, a front-wheel-drive MPV on the Daihatsu DNGA platform with a 1.5 L 2NR-VE engine and a CVT."
