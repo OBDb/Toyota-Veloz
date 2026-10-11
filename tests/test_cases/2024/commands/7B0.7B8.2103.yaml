@@ -1,0 +1,14 @@
+command_id: 7B0.7B8.2103
+test_cases:
+- expected_values:
+    VELOZ_TIRE_FL_SPD: 0
+    VELOZ_TIRE_FR_SPD: 0
+    VELOZ_TIRE_RL_SPD: 0
+    VELOZ_TIRE_RR_SPD: 0
+  response: 7B806610300000000
+- expected_values:
+    VELOZ_TIRE_FL_SPD: 61.44
+    VELOZ_TIRE_FR_SPD: 61.44
+    VELOZ_TIRE_RL_SPD: 61.44
+    VELOZ_TIRE_RR_SPD: 61.44
+  response: 7B806610330303030

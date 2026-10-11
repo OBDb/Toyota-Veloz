@@ -1,0 +1,56 @@
+command_id: 7B0.7B8.2147
+test_cases:
+- expected_values:
+    VELOZ_LAT_G: 0
+    VELOZ_LNG_G: 0
+    VELOZ_STEER_ANGLE: -7.5
+    VELOZ_YAW_RATE: 0
+  response: 7B80761470000807FB5
+- expected_values:
+    VELOZ_LAT_G: 0
+    VELOZ_LNG_G: 0.02
+    VELOZ_STEER_ANGLE: 403.5
+    VELOZ_YAW_RATE: 10
+  response: 7B807614700018A8FC3
+- expected_values:
+    VELOZ_LAT_G: 0
+    VELOZ_LNG_G: 0.04
+    VELOZ_STEER_ANGLE: 0
+    VELOZ_YAW_RATE: 0
+  response: 7B80761470002808000
+- expected_values:
+    VELOZ_LAT_G: 0
+    VELOZ_LNG_G: -0.04
+    VELOZ_STEER_ANGLE: -598.6
+    VELOZ_YAW_RATE: 8
+  response: 7B807614700FE88689E
+- expected_values:
+    VELOZ_LAT_G: 0
+    VELOZ_LNG_G: -0.02
+    VELOZ_STEER_ANGLE: -10.6
+    VELOZ_YAW_RATE: 0
+  response: 7B807614700FF807F96
+- expected_values:
+    VELOZ_LAT_G: 0.02
+    VELOZ_LNG_G: 0.04
+    VELOZ_STEER_ANGLE: -0.2
+    VELOZ_YAW_RATE: 0
+  response: 7B80761470102807FFE
+- expected_values:
+    VELOZ_LAT_G: 0.04
+    VELOZ_LNG_G: -0.02
+    VELOZ_STEER_ANGLE: 608.3
+    VELOZ_YAW_RATE: 8
+  response: 7B807614702FF8897C3
+- expected_values:
+    VELOZ_LAT_G: 0.08
+    VELOZ_LNG_G: -0.06
+    VELOZ_STEER_ANGLE: -437.3
+    VELOZ_YAW_RATE: -9
+  response: 7B807614704FD776EEB
+- expected_values:
+    VELOZ_LAT_G: -0.02
+    VELOZ_LNG_G: 0
+    VELOZ_STEER_ANGLE: -1.7
+    VELOZ_YAW_RATE: 0
+  response: 7B8076147FF00807FEF
